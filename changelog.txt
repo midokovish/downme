@@ -1,0 +1,46 @@
+📄 CHANGELOG
+
+✨ Look & Feel Update
+
+Date:12-10-2024
+
+* Improved overall UI/UX design.
+* Updated theme colors and visual components for a cleaner and more modern feel.
+* Enhanced animations and transitions for smoother navigation.
+
+
+🌐 New Browser Features
+
+Date:05-03-2025
+
+* Added advanced in-app browser capabilities.
+* Improved page loading performance.
+* Enhanced security settings and cookie handling.
+* Added compatibility with more web standards for better site rendering.
+
+
+📥 New Download Features
+
+Date:07-12-2025
+
+* Added ability to download content directly from:
+
+  * Instagram
+  * TikTok
+  * Twitter
+  * Facebook
+* Improved download manager with progress tracking.
+* Enhanced media detection for more accurate file extraction.
+
+
+🐞 Bug Fix – Font Scaling Issue
+
+Date:11-12-2025
+
+* Implemented a correct and reliable solution to prevent Android system font scaling from affecting the app’s UI.
+* Fixed issue where enlarged system fonts caused:
+
+  * Text overflow
+  * Buttons disappearing
+  * Layout distortion in multiple screens
+* UI now remains consistent regardless of the user’s device font size settings.
